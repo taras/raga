@@ -1,6 +1,7 @@
 import { action, type Operation } from "effection";
 
 /**
+ * We'd like to help you figure out how to make this work. 
  * N.B. it would be nice to use the same implementation from the effection tutorial, but that's
  * proven tricky to get working in client code:
  *
